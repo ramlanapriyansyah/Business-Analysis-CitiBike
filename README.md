@@ -1,4 +1,4 @@
-# Business-Analysis-CitiBike
+# Hotel-Revenue-Data-Visualization
 <img src="Dashboard Image.png" alt="Dashboard"> 
 
 # Data Used
